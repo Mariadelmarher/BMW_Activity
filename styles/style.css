@@ -109,7 +109,7 @@ body{
 
 .leftnav #leftContenido{
   margin-left: 5vw;
-  margin-top: 22vh;
+  margin-top: 17vh;
   font-size: 1.5vw;
   color: white;
   text-shadow: 1px 4px 4px rgb(158, 158, 158);
@@ -120,7 +120,6 @@ body{
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: white;
   margin-top: 4vh;
-  /* text-shadow: 0px 0px 0px rgb(255, 255, 255); */
 }
 
 #malditoboton {
